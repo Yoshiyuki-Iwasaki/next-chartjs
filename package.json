@@ -8,15 +8,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/faker": "^6.6.9",
     "next": "12.0.9",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@types/node": "^17.0.13",
     "@types/react": "^17.0.38",
+    "chart.js": "^3.7.0",
     "eslint": "8.8.0",
     "eslint-config-next": "12.0.9",
+    "faker": "^5.5.3",
+    "react-chartjs-2": "^4.0.1",
     "typescript": "^4.5.5"
   }
 }
